@@ -12,7 +12,7 @@ type: docs
 
 ### What is Mddocs?
 
-Mddocs creates a static web-site based on your *.md files located in your github repository. 
+Mddocs creates a static web-site based on your `*.md` files located in your github repository. 
 
 ### Getting started
 
