@@ -56,7 +56,7 @@ All rights reserved. You may not duplicate, copy, or reuse any portion of the HT
 ### General Conditions
 
 Your use of the Service is at your sole risk. The service is provided on an "as is" and "as available" basis.
-By using Mddocs, your company accepts public disclosure of its integration with Mddocs via Mddocs's marketing activities. If you want to opt out, please contact our marketing team at team@mddocs.io.
+By using Mddocs, your company accepts public disclosure of its integration with Mddocs via Mddocs's marketing activities. If you want to opt out, please contact our marketing team at [team@mddocs.io](mailto:team@mddocs.io).
 You understand that Mddocs uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
 You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, Mddocs, or any other Mddocs service.
 You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by Mddocs.
