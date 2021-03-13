@@ -97,10 +97,9 @@ Address: </br>
 Ecuador, Quito </br>
 La Armenia, Juan Leon Mera y Charles Darvin </br> 
 cjt Prados de la Armenia, casa 73C </br>
-RUC 1792537754001 </br>
 Email: support@mddocs.io </br>
 Website: [mddocs.io](https://mddocs.io)
 
 ### Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at privacy@mddocs.io
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [privacy@mddocs.io](mailto:privacy@mddocs.io)

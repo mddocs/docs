@@ -82,4 +82,4 @@ The failure of Mddocs to exercise or enforce any right or provision of the Terms
 This document is effective as of 2020-07-16.
 
 ### Contact Us
-If you have any questions or suggestions about the Terms of Service, do not hesitate to contact us at support@mddocs.io.
+If you have any questions or suggestions about the Terms of Service, do not hesitate to contact us at [support@mddocs.io](mailto:support@mddocs.io)
