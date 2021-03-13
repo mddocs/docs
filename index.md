@@ -7,7 +7,7 @@ type: docs
 # Welcome to Mddocs!
 
 <p align="center">
-  <a href="/"><img src="https://raw.githubusercontent.com/cloudback/docs/master/static/social.png" alt="social img" style="width: 500px;"></a>
+  <a href="/"><img src="https://raw.githubusercontent.com/mddocs/docs/master/images/social.png" alt="social img" style="width: 500px;"></a>
 </p>
 
 ### What is Mddocs?
