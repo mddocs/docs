@@ -9,11 +9,11 @@ bookToc: true
 
 ### Introduction
 
-We, the MYRTLECONSULTING S.A., have built the Cloudback application as a Commercial service. This service is provided by us and is intended for use as is. We fully comply with the European General Data Protection Regulation (GDPR) laws, requirements and regulations.
+We, the MYRTLECONSULTING S.A., have built the Mddocs application as a Commercial service. This service is provided by us and is intended for use as is. We fully comply with the European General Data Protection Regulation (GDPR) laws, requirements and regulations.
 
 This Policy is used to inform visitors and users regarding our policies about the collection, use, and disclosure of Personal Information of anyone using the Service.
 
-By using the Service, you agree to the collection and use of information mentioned in this policy. The Personal Information that we collect is used for providing and improving the Service. We respect the privacy of our users and will not use or share the information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms of Service, which can be accessed [here](https://docs.cloudback.it/terms/) unless otherwise defined in this Privacy Policy.
+By using the Service, you agree to the collection and use of information mentioned in this policy. The Personal Information that we collect is used for providing and improving the Service. We respect the privacy of our users and will not use or share the information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms of Service, which can be accessed [here](https://mddocs.mddocs.io/terms/) unless otherwise defined in this Privacy Policy.
 
 This policy only applies to our site. If you leave the site via a link or otherwise, you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site. 
 
@@ -26,7 +26,7 @@ We may collect and process the following data about you:
 * Information provided by GitHub at the time of signing up into our service or requesting further services: 
   - Your GitHub account name
   - Your email address
-* Information that you provide by filling in forms on our site (https://cloudback.it). We may also ask you for information when you report a problem with our site or sending any feedback information.
+* Information that you provide by filling in forms on our site (https://mddocs.io). We may also ask you for information when you report a problem with our site or sending any feedback information.
 * If you contact us, we may keep a record of that correspondence.
 * We may also ask you to complete some surveys that we use for research purposes, although you do not have to respond to them.
 * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating workspace, browser usage and other communication data.
@@ -43,17 +43,9 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 For more information on the privacy practices of Google, please visit the [Google Privacy & Terms](http://www.google.com/intl/en/policies/privacy/) web page.
 
-**GitHub** brings together the world's largest community of developers to discover, share, and build better software. Cloudback was build as a GitHub Application for public use.
+**GitHub** brings together the world's largest community of developers to discover, share, and build better software. Mddocs was build as a GitHub Application for public use.
 
 By using the Service you agree with [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement).
-
-**Microsoft Azure** commonly referred to as Azure, is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers. By using Cloudback storage or creating your own Azure storage you agree with Microsoft privacy policy. See [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/PrivacyStatement) for more details.
-
-**Amazon Web Services** (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. When creating an AWS-based storage you agree with [AWS Privacy Notice](https://aws.amazon.com/ru/privacy/).
-
-**Google Cloud** offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail and YouTube. When working with Google Cloud storages you agree with Google Cloud privacy policy. For more details see Google Cloud [Data Privacy Commitments](https://cloud.google.com/security/privacy).
-
-**Alibaba Cloud** also known as Aliyun, is a Chinese cloud computing company, a subsidiary of Alibaba Group. Alibaba Cloud provides cloud computing services to online businesses and Alibaba's own e-commerce ecosystem. When using the Alibaba Cloud you agree with Alibaba Cloud Privacy Policy. See [Alibaba Cloud International Website Privacy Policy](https://www.alibabacloud.com/help/faq-detail/42425.htm) and [GDPR Compliance](https://www.alibabacloud.com/trust-center/gdpr) for more details.
 
 ### Cookies
 
@@ -106,9 +98,9 @@ Ecuador, Quito </br>
 La Armenia, Juan Leon Mera y Charles Darvin </br> 
 cjt Prados de la Armenia, casa 73C </br>
 RUC 1792537754001 </br>
-Email: support@cloudback.it </br>
-Website: [cloudback.it](https://cloudback.it)
+Email: support@mddocs.io </br>
+Website: [mddocs.io](https://mddocs.io)
 
 ### Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at privacy@cloudback.it
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at privacy@mddocs.io

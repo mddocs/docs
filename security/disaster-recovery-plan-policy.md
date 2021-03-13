@@ -9,15 +9,15 @@ bookToc: true
 
 ### Overview
 
-The purpose of the policy is to establish the goals and the vision for the disaster recovery process in the MYRTLECONSULTING S.A. ("we" or "Cloudback"). It is important to understand that having a contingency plan in the event of a disaster gives Cloudback a competitive advantage. This policy requires management to financially support and diligently attend to disaster contingency planning efforts. Disasters are not limited to adverse weather conditions. Any event that could likely cause an extended delay of service is considered.
+The purpose of the policy is to establish the goals and the vision for the disaster recovery process in the MYRTLECONSULTING S.A. ("we" or "Mddocs"). It is important to understand that having a contingency plan in the event of a disaster gives Mddocs a competitive advantage. This policy requires management to financially support and diligently attend to disaster contingency planning efforts. Disasters are not limited to adverse weather conditions. Any event that could likely cause an extended delay of service is considered.
 
 ### Purpose
 
-This policy defines the requirement for a baseline disaster recovery plan to be developed and implemented by Cloudback that will describe the process to recover IT Systems, Applications and Data from any type of disaster that causes a major outage.
+This policy defines the requirement for a baseline disaster recovery plan to be developed and implemented by Mddocs that will describe the process to recover IT Systems, Applications and Data from any type of disaster that causes a major outage.
 
 ### Scope
 
-This policy is directed to the Cloudback's Support Team who is accountable to ensure the plan is developed, tested and kept up-to-date. This policy is solely to state the requirement to have a disaster recovery plan, it does not provide requirement around what goes into the plan or subplans.
+This policy is directed to the Mddocs's Support Team who is accountable to ensure the plan is developed, tested and kept up-to-date. This policy is solely to state the requirement to have a disaster recovery plan, it does not provide requirement around what goes into the plan or subplans.
 
 ### Policy
 
@@ -42,11 +42,11 @@ The plan, at a minimum, should be reviewed an updated on an annual basis.
 
 #### Compliance Measurement
 
-The Cloudback's Support Team will verify compliance to this policy through various methods, including but not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
+The Mddocs's Support Team will verify compliance to this policy through various methods, including but not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
 
 #### Exceptions
 
-Any exception to the policy must be approved by the Cloudback's Support Team in advance.
+Any exception to the policy must be approved by the Mddocs's Support Team in advance.
 
 #### Non-Compliance
 

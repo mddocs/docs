@@ -1,4 +1,4 @@
----
+--
 title: Incident Response Plan
 weight: 10
 type: docs
@@ -9,23 +9,23 @@ bookToc: true
 
 ### Introduction
 
-The purpose of the document is to establish the goals and the vision for the incident management process in the MYRTLECONSULTING S.A. (“we” or “Cloudback”).
+The purpose of the document is to establish the goals and the vision for the incident management process in the MYRTLECONSULTING S.A. (“we” or “Mddocs”).
 This document discusses the steps taken during an incident response plan.
 
 ## Incident Response Process
 
-1) The person who discovers the incident should contact Cloudback by one of the following ways:
+1) The person who discovers the incident should contact Mddocs by one of the following ways:
 
- - Send an email to the support@cloudback.it 
- - Raise a request in the Cloudback [issue tracker](https://github.com/cloudback/issue-tracker/issues/new?template=bug_report.md)
- - Use any contacts from [Contact Us](https://docs.cloudback.it/contact-us/) web page
+ - Send an email to the support@mddocs.io 
+ - Raise a request in the Mddocs [issue tracker](https://github.com/mddocs/issue-tracker/issues/new?template=bug_report.md)
+ - Use any contacts from [Contact Us](https://docs.mddocs.io/contact-us/) web page
 
-2) If the person discovering the incident is a member of the Cloudback team, they will proceed to step four (4).
+2) If the person discovering the incident is a member of the Mddocs team, they will proceed to step four (4).
 
 3) Once contacted the Support Team will log:
 
  - The name of the person discovering the incident.
- - Time the person discovering the incident contacted Cloudback.
+ - Time the person discovering the incident contacted Mddocs.
  - Contact information about the person discovering the incident.
  - The nature of the incident.
  - When the event was first noticed, supporting the idea that the incident occurred.
