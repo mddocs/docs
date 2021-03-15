@@ -79,7 +79,7 @@ You may not assign these Terms of Service without Mddocs's prior written consent
 Mddocs reserves the right to update and change the Terms of Service from time to time. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the amended Terms of Service as follows: Amended Terms of Service will become effective the earlier of either your acceptance of the amended Terms of Service, your continued use of the Services after written notice of the amended Terms of Service, or thirty days after the date Mddocs posts such amended Terms of Service on the Mddocs website. In addition, if over time you sign multiple orders for a single account, then the Terms of Service incorporated in the latest order posted on the effective date of the latest order will govern the entire account.
 The failure of Mddocs to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and Mddocs and govern your use of the Service, superseding any prior agreements between you and Mddocs (including, but not limited to, any prior versions of the Terms of Service).
 
-This document is effective as of 2020-07-16.
+This document is effective as of 2021-03-15.
 
 ### Contact Us
 If you have any questions or suggestions about the Terms of Service, do not hesitate to contact us at [support@mddocs.io](mailto:support@mddocs.io)

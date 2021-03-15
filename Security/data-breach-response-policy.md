@@ -15,7 +15,7 @@ Mddocs Information Security's intentions for publishing a Data Breach Response P
 
 ### Background
 
-This policy mandates that any individual who suspects that a theft, breach or exposure of Mddocs Protected data or Mddocs Sensitive data has occurred must immediately provide a description of what occurred via email to support@mddocs.io or using other options mentioned on the [Contact Us](https://mddocs.mddocs.io/contact-us) web page. This email address and Mddocs's issue tracker are monitored by the Mddocs’s Support Team. The team will investigate all reported thefts, data breaches and exposures to confirm if a theft, breach or exposure has occurred. If a theft, breach or exposure has occurred, the Mddocs's Support Team will follow the appropriate procedure in place.
+This policy mandates that any individual who suspects that a theft, breach or exposure of Mddocs Protected data or Mddocs Sensitive data has occurred must immediately provide a description of what occurred via email to support@mddocs.io or using other options mentioned on the [Contact Us](https://docs.mddocs.io/contact-us) web page. This email address and Mddocs's issue tracker are monitored by the Mddocs’s Support Team. The team will investigate all reported thefts, data breaches and exposures to confirm if a theft, breach or exposure has occurred. If a theft, breach or exposure has occurred, the Mddocs's Support Team will follow the appropriate procedure in place.
 
 ### Scope
 
