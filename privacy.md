@@ -37,7 +37,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 ### External Services
 
-**SendGrid** is GDRP compliant customer communication platform for transactional and marketing email. For more information see the [Privacy Statement](https://www.twilio.com/legal/privacy) web page.
+**SendGrid** is GDRP compliant customer communication platform for transactional and marketing email. For more information visit the [Privacy Statement](https://www.twilio.com/legal/privacy) web page.
 
 **Google Analytics** is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
