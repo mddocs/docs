@@ -6,9 +6,7 @@ weight: 1
 
 # Welcome to Mddocs!
 
-<p align="center">
-  <a href="/"><img src="https://raw.githubusercontent.com/mddocs/docs/master/images/social.png" alt="social img" style="width: 500px;"></a>
-</p>
+![social img](./images/social.png)
 
 ### What is Mddocs?
 
