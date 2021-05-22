@@ -1,7 +1,6 @@
 ---
 title: Getting started
 weight: 2
-type: docs
 ---
 
 ## Getting started

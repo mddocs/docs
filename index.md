@@ -1,7 +1,6 @@
 ---
 title: Home
 weight: 1
-type: docs
 ---
 
 # Welcome to Mddocs!

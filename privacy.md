@@ -1,8 +1,6 @@
 ---
 title: Privacy Policy
-weight: 30
-type: docs
-bookToc: true
+weight: 3
 ---
 
 ## Privacy Policy
