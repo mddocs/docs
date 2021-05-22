@@ -36,6 +36,15 @@ On the Mddocs installation page, select the repositories you want to backup by p
 
 ![install app](./images/getting-started/getting-started-4-install-app.png)
 
-You then will be redirected to the Mddocs Dashboard. That's it, you now have completed the installation.
+Wait until you will be redirected to authorization page. Click on the `Authorize Mddocs` button:
+
+![install app](./images/getting-started/getting-started-7-authorize-app.png)
+
+You then will be redirected to the Mddocs Dashboard. 
+Accept the Mddocs's Terms of Service and Privacy Policy by clicking on the corresponding checkboxes and click `Start using Mddocs!` button:
+
+![install app](./images/getting-started/getting-started-6-initial-setup.png)
+
+That's it, you now have completed the installation.
 
 ![mddocs dashboard](./images/getting-started/getting-started-5-mddocs-dashboard.png)
