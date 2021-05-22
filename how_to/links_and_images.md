@@ -5,15 +5,15 @@ weight: 1.7
 
 # Options
 
-Mddocs supports two options for providing links inside .md files:
- - **Internal** (links to pages and content within repository)
- - **External** (links to pages and content outside repository)
+Mddocs supports two options for providing links inside ```.md``` files:
+ - **Relative** (links to pages and content within repository)
+ - **Absolute** (links to pages and content outside repository)
 
-## Internal links
+## Relative links
 
-Internal links considered to be relative to .md file inside repository.
+Internal links considered to be relative to ```.md``` file inside repository.
 
-To insert the link to .md content use the generic markdown syntax
+To insert the link to ```.md``` content use the generic [markdown](https://www.markdownguide.org/basic-syntax/#links) syntax
 - Image
 ```![ImageDescription](relativeLink)```
 - Link
@@ -31,7 +31,7 @@ If you need to insert the link relative to [Source Folder](./change_root_folder.
 
 ```[LinkTitle](/someFolderInSourceFolder/page.md)```
 
-## External links
+## Absolute links
 
 You can use any of absolute links inside ```.md``` document.
 
