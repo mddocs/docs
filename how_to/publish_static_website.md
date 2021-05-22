@@ -15,16 +15,37 @@ Let's publish a static website repository using the website example:
 
 [Cloud Academy](https://cloudacademy.com/) has published a good static website example that can be found in the [static-website-example](https://github.com/cloudacademy/static-website-example) repository. Let's fork it into our own repository: 
 
-![set up a plan](./../images/how-to/publish-static-website/mddocs-1-fork-repo.png)
+![fork repository](./../images/how-to/publish-static-website/mddocs-1-fork-repo.png)
 
 ### 2. Grant an access to the repository
 
 ```Note: If the Mddocs GitHub Application has an access to `All repositories` there is no need to grant an access explicitly.```
 
-Goto to the [Installed GitHub Apps](https://github.com/settings/installations), find `Mddocs` installation and grant an access to the forked repository:
+Go to the [Installed GitHub Apps](https://github.com/settings/installations) page, find `Mddocs` installation, and grant an access to the forked repository:
 
-![set up a plan](./../images/how-to/publish-static-website/mddocs-2-provide-access.png)
+![grant an access](./../images/how-to/publish-static-website/mddocs-2-provide-access.png)
 
 
-### 3. Goto mddocs.io, locate the repository card
+### 3. Go to the mddocs.io and publish the repository
 
+Once the access is granted a repository card will appear in the `mddocs` dashboard, please locate it and click `Publish`
+
+![locate a card and publish](./../images/how-to/publish-static-website/mddocs-3-publish-website.png)
+
+### 4. Go to the published website
+
+There is an `Open website` button, click it in order to open the published website in the new tab:
+
+![open published website](./../images/how-to/publish-static-website/mddocs-4-view-website.png)
+
+The static web site is published:
+
+![open published website](./../images/how-to/publish-static-website/mddocs-5-opened-website.png)
+
+
+## See also
+
+- [Make documentation private](make_docs_private.md)
+- [Enable continuous deployment](continious_deployment.md)
+- [Change repository branch](change_branch.md)
+- [Change repository folder](change_root_folder.md)
