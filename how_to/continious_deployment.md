@@ -1,4 +1,4 @@
 ---
 title: Enable Continious Deployment
-weight: 1.2
+weight: 1.3
 ---
