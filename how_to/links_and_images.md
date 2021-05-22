@@ -22,6 +22,7 @@ Relative links considered to be relative to ```.md``` file where the link is pla
 ### Relative to current document
 
 The relative link could start with ```./``` or with nothing at all:
+- ```[Link Title](./../file.md)```
 - ```[Link Title](./file.md)```
 - ```[Link Title](file.md)```
 
