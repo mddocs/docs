@@ -46,6 +46,6 @@ The static web site is published:
 ## See also
 
 - [Make documentation private](make_docs_private.md)
-- [Enable continuous deployment](continious_deployment.md)
+- [Enable continuous deployment](continuous_deployment.md)
 - [Change repository branch](change_branch.md)
 - [Change repository folder](change_root_folder.md)
