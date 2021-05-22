@@ -19,9 +19,7 @@ Let's publish a static website repository using the website example:
 
 ### 2. Grant an access to the repository
 
-```md
-Note: If the Mddocs GitHub Application has an access to `All repositories` there is no need to grant an access explicitly.
-```
+```Note: If the Mddocs GitHub Application has an access to `All repositories` there is no need to grant an access explicitly.```
 
 Goto to the [Installed GitHub Apps](https://github.com/settings/installations), find `Mddocs` installation and grant an access to the forked repository:
 
