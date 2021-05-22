@@ -1,8 +1,6 @@
 ---
 title: Incident Response Plan
-weight: 10
-type: docs
-bookToc: true
+weight: 3
 ---
 
 ## Incident Response Plan

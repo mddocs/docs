@@ -1,8 +1,6 @@
 ---
 title: Data Breach Response Policy
-weight: 30
-type: docs
-bookToc: true
+weight: 1
 ---
 
 ## Data Breach Response Policy

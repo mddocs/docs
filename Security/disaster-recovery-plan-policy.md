@@ -1,8 +1,6 @@
 ---
 title: Disaster Recovery Plan Policy
-weight: 20
-type: docs
-bookToc: true
+weight: 2
 ---
 
 ## Disaster Recovery Plan Policy

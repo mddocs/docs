@@ -1,8 +1,6 @@
 ---
 title: Contact us
-weight: 40
-type: docs
-bookToc: true
+weight: 1
 ---
 
 
