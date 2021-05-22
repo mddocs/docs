@@ -3,38 +3,38 @@ menuTitle: Insert Links and Images
 weight: 1.7
 ---
 
-# Options
+# Insert Links and Images
 
-Mddocs supports two options for providing links inside ```.md``` files:
- - **Relative** (links to pages and content within repository)
- - **Absolute** (links to pages and content outside repository)
+Mddocs supports two ways of inserting links inside ```.md``` files:
+ - **Relative**: links to pages and content within repository
+ - **Absolute**: links to pages and content outside repository
+
+In order to place a link inside ```.md``` file use the generic [markdown](https://www.markdownguide.org/basic-syntax/#links) syntax:
+- Image
+```![Image Description](link)```
+- Link
+```[Link Title](link)```
 
 ## Relative links
 
-Internal links considered to be relative to ```.md``` file inside repository.
+Relative links considered to be relative to ```.md``` file where the link is placed.
 
-To insert the link to ```.md``` content use the generic [markdown](https://www.markdownguide.org/basic-syntax/#links) syntax
-- Image
-```![ImageDescription](relativeLink)```
-- Link
-```[LinkTitle](relativeLink)```
-
-### Relative to current ```.md``` document
+### Relative to current document
 
 The relative link could start with ```./``` or with nothing at all:
-- ```[LinkTitle](./file.md)```
-- ```[LinkTitle](file.md)```
+- ```[Link Title](./file.md)```
+- ```[Link Title](file.md)```
 
-### Relative to Source Folder
+### Relative to source folder
 
-If you need to insert the link relative to [Source Folder](./change_root_folder.md), use ```/``` at start of link:
+In order to insert a link relative to [Source Folder](./change_root_folder.md), use the ```/``` symbol at the beggining of link:
 
-```[LinkTitle](/someFolderInSourceFolder/page.md)```
+```[Link Title](/someFolderInSourceFolder/page.md)```
 
 ## Absolute links
 
-You can use any of absolute links inside ```.md``` document.
+You can use any of absolute links inside ```.md``` document:
 
-# Examples
-
-Take a look into [LinksExample](https://github.com/mddocs/examples/LinksExamples) part of Mddocs repository
+- ```![Picture](https://github.com/mddocs/docs/blob/main/images/social.png?raw=true)```
+- ```![Picture](https://docs.mddocs.io/images/social.png)```
+- ```[Home](https://docs.mddocs.io/)```
