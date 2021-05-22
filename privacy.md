@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-weight: 3
+weight: 1.4
 ---
 
 ## Privacy Policy

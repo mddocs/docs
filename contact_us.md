@@ -1,6 +1,6 @@
 ---
 title: Contact us
-weight: 50
+weight: 1.6
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-weight: 4
+weight: 1.5
 ---
 
 
