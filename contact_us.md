@@ -1,5 +1,5 @@
 ---
-title: Contact us
+menuTitle: Contact us
 weight: 1.6
 ---
 

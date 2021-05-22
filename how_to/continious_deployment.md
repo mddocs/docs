@@ -1,4 +1,4 @@
 ---
-title: Enable Continious Deployment
+menuTitle: Enable Continious Deployment
 weight: 1.3
 ---

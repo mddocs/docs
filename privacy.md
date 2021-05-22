@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+menuTitle: Privacy Policy
 weight: 1.4
 ---
 

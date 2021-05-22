@@ -1,4 +1,4 @@
 ---
-title: Change Pages Ordering
+menuTitle: Change Pages Ordering
 weight: 1.2
 ---

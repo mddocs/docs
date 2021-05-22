@@ -1,4 +1,4 @@
 ---
-title: Publish Static Website
-weigh}t: 1.1
+menuTitle: Publish Static Website
+weight: 1.1
 ---

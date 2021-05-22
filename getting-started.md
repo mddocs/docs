@@ -1,5 +1,5 @@
 ---
-title: Getting started
+menuTitle: Getting started
 weight: 1.2
 ---
 

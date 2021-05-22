@@ -1,4 +1,4 @@
 ---
-title: SEO
+menuTitle: SEO
 weight: 1.4
 ---

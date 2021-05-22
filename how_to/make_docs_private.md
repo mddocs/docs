@@ -1,4 +1,4 @@
 ---
-title: Make Documentation Private
+menuTitle: Make Documentation Private
 weight: 1.1
 ---

@@ -1,5 +1,5 @@
 ---
-title: Data Breach Response Policy
+menuTitle: Data Breach Response Policy
 weight: 1
 ---
 

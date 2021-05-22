@@ -1,4 +1,4 @@
 ---
-title: Change Source Root Folder
+menuTitle: Change Source Root Folder
 weight: 1.5
 ---

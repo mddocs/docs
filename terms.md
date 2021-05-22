@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+menuTitle: Terms of Service
 weight: 1.5
 ---
 

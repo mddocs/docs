@@ -1,4 +1,4 @@
 ---
-title: Change Pages Title
+menuTitle: Change Pages Title
 weight: 1.1
 ---

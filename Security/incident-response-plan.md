@@ -1,5 +1,5 @@
 ---
-title: Incident Response Plan
+menuTitle: Incident Response Plan
 weight: 3
 ---
 

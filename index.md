@@ -1,5 +1,6 @@
 ---
-title: Home
+menuTitle: Home
+pageTitle: Documentation
 weight: 1
 ---
 

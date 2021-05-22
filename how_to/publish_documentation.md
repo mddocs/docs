@@ -1,4 +1,4 @@
 ---
-title: Publish Markdown Documentation
+menuTitle: Publish Markdown Documentation
 weight: 1
 ---

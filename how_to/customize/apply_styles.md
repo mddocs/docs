@@ -1,4 +1,4 @@
 ---
-title: Apply Styles
+menuTitle: Apply Styles
 weight: 1.3
 ---

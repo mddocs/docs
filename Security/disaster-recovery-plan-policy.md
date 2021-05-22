@@ -1,5 +1,5 @@
 ---
-title: Disaster Recovery Plan Policy
+menuTitle: Disaster Recovery Plan Policy
 weight: 2
 ---
 

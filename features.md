@@ -1,5 +1,5 @@
 ---
-title: Features
+menuTitle: Features
 weight: 1.1
 ---
 
